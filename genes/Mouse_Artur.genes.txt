@@ -1,0 +1,2 @@
+seqnames	start	end	width	strand	peak	feature	feature.ranges.start	feature.ranges.end	feature.ranges.width	feature.strand	distance	insideFeature	distanceToSite	symbol
+chr7	39989396	39989859	464	*	X2	8621	39989959	40136733	146775	+	99	upstream	99	CDK13
