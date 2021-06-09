@@ -14,3 +14,4 @@ Format: name, [genome, cell type], github link
 - Petrovich Sergey [mouse (mm10), CH12.LX], https://github.com/serp404/hse21_H3K4me3_ZDNA_mouse
 - Rubashkin Dmitry [mouse (mm10), MEL], https://github.com/dimarub2000/hse21_H3K4me3_ZDNA_mouse
 - Lopatina Sofya [human (hg19), K652], https://github.com/HSESofya/hse21_H3K4me3_ZDNA_human
+- Dmitry Nesterov [human (hg19), H1], https://github.com/DimonNester/hse21_H3K4me3_ZDNA_human
